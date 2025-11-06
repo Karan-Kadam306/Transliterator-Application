@@ -56,7 +56,6 @@ Open `Transliterator.bas` and adjust:
 - Retroflex vs. dental distinctions are not explicitly modeled (both `t`/`d` map to dental by default). You can extend mappings to support capitalized tokens if desired.
 - The engine assumes an implicit short `a` after consonants unless a vowel matra follows; clusters insert `्` automatically.
 
-### License
-MIT
+
 
 
